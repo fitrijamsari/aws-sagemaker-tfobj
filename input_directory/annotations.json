@@ -1,0 +1,474 @@
+{
+    "images": [
+        {
+            "file_name": "56.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 1
+        },
+        {
+            "file_name": "57.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 2
+        },
+        {
+            "file_name": "55.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 3
+        },
+        {
+            "file_name": "54.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 4
+        },
+        {
+            "file_name": "50.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 5
+        },
+        {
+            "file_name": "51.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 6
+        },
+        {
+            "file_name": "53.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 7
+        },
+        {
+            "file_name": "52.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 8
+        },
+        {
+            "file_name": "8.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 9
+        },
+        {
+            "file_name": "9.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 10
+        },
+        {
+            "file_name": "10.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 11
+        },
+        {
+            "file_name": "5.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 12
+        },
+        {
+            "file_name": "7.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 13
+        },
+        {
+            "file_name": "6.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 14
+        },
+        {
+            "file_name": "4.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 15
+        },
+        {
+            "file_name": "2.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 16
+        },
+        {
+            "file_name": "3.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 17
+        },
+        {
+            "file_name": "1.jpg",
+            "width": "499",
+            "height": "666",
+            "id": 18
+        }
+    ],
+    "annotations": [
+        {
+            "image_id": 1,
+            "bbox": [
+                22,
+                252,
+                113,
+                256
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 1,
+            "bbox": [
+                163,
+                181,
+                151,
+                341
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 1,
+            "bbox": [
+                345,
+                328,
+                113,
+                189
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 2,
+            "bbox": [
+                69,
+                230,
+                117,
+                269
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 2,
+            "bbox": [
+                167,
+                313,
+                276,
+                118
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 2,
+            "bbox": [
+                283,
+                315,
+                107,
+                197
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 3,
+            "bbox": [
+                118,
+                222,
+                96,
+                259
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 3,
+            "bbox": [
+                185,
+                316,
+                104,
+                197
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 3,
+            "bbox": [
+                251,
+                147,
+                159,
+                342
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 4,
+            "bbox": [
+                42,
+                354,
+                103,
+                168
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 4,
+            "bbox": [
+                122,
+                374,
+                177,
+                132
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 4,
+            "bbox": [
+                325,
+                224,
+                145,
+                289
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 5,
+            "bbox": [
+                54,
+                168,
+                140,
+                293
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 5,
+            "bbox": [
+                59,
+                410,
+                300,
+                107
+            ],
+            "category_id": "water_bottle"
+        },
+        {
+            "image_id": 5,
+            "bbox": [
+                353,
+                338,
+                114,
+                194
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 6,
+            "bbox": [
+                21,
+                202,
+                145,
+                301
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 6,
+            "bbox": [
+                199,
+                341,
+                92,
+                174
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 6,
+            "bbox": [
+                361,
+                235,
+                106,
+                264
+            ],
+            "category_id": "water_bottle"
+        },
+        {
+            "image_id": 7,
+            "bbox": [
+                47,
+                333,
+                118,
+                192
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 7,
+            "bbox": [
+                172,
+                319,
+                243,
+                201
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 7,
+            "bbox": [
+                362,
+                225,
+                90,
+                221
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 8,
+            "bbox": [
+                29,
+                194,
+                148,
+                306
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 8,
+            "bbox": [
+                209,
+                337,
+                95,
+                177
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 8,
+            "bbox": [
+                369,
+                261,
+                102,
+                243
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 9,
+            "bbox": [
+                47,
+                280,
+                382,
+                157
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 10,
+            "bbox": [
+                80,
+                157,
+                128,
+                321
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 10,
+            "bbox": [
+                299,
+                220,
+                95,
+                244
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 11,
+            "bbox": [
+                86,
+                102,
+                130,
+                337
+            ],
+            "category_id": "carton"
+        },
+        {
+            "image_id": 11,
+            "bbox": [
+                150,
+                377,
+                295,
+                113
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 12,
+            "bbox": [
+                39,
+                278,
+                373,
+                117
+            ],
+            "category_id": "water_bottle"
+        },
+        {
+            "image_id": 13,
+            "bbox": [
+                86,
+                298,
+                334,
+                116
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 14,
+            "bbox": [
+                125,
+                316,
+                244,
+                123
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 15,
+            "bbox": [
+                245,
+                119,
+                144,
+                399
+            ],
+            "category_id": "water_bottle"
+        },
+        {
+            "image_id": 16,
+            "bbox": [
+                247,
+                192,
+                108,
+                301
+            ],
+            "category_id": "milk_bottle"
+        },
+        {
+            "image_id": 17,
+            "bbox": [
+                259,
+                231,
+                124,
+                227
+            ],
+            "category_id": "can"
+        },
+        {
+            "image_id": 18,
+            "bbox": [
+                100,
+                173,
+                133,
+                348
+            ],
+            "category_id": "carton"
+        }
+    ]
+}
